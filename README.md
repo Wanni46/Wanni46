@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+How+are+you..&hearts;++;I+am+a...;Computer+Engineering+;Undergraduate+Student+and,;I+am+a+Full-stack+Developer;..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+How+are+you..&hearts;++;I+am+a...;Computer+Engineering+;Undergraduate+Student;+and...,;I+am+a...;+Full-stack+Web+Developer;Welcome+..&hearts;++"></a>
 </p>
 
 <h3 align="center"> A Passionate Full-Stack Developer from Sri Lanka </h3>
@@ -64,6 +64,10 @@
   <br>
  </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![snake gif](https://github.com/Wanni46/Wanni46/blob/output/github-contribution-grid-snake.gif)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
