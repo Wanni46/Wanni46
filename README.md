@@ -9,6 +9,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img align="right" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="coding gif" />
 
 - 🎓 Computer Engineering Undergraduate at **The Open University of Sri Lanka**
@@ -34,6 +37,9 @@
 </details>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -63,6 +69,10 @@
 
 ## 📊 GitHub Analytics
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanni46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0047AB&icon_color=0047AB" alt="Wanni46's GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanni46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=0047AB" alt="Wanni46's Top Languages" />
@@ -77,6 +87,10 @@
 </div>
 
 ## 🔗 Connect with me
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
   <a href="https://stackoverflow.com/users/30434740" target="_blank">
@@ -98,6 +112,9 @@
 
 ## 🚀 Featured Projects
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <a href="https://www.axsynthegroup.me" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanni46&repo=Wanni46&theme=tokyonight&hide_border=true&title_color=0047AB&icon_color=0047AB" alt="Featured Project" />
@@ -107,11 +124,17 @@
 
 ## ☕ Support Me
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-  <a href="https://www.buymeacoffee.com/dhananjaya_46">
+  <a href="                    buymeacoffee.com/dhananjaya_46                ">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <picture>
