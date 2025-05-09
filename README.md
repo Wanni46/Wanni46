@@ -1,105 +1,226 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&customColorList=0,2,2,5,30&height=200&section=header&text=Pasindu%20D.%20Wanninayake&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header" />
+<!-- HEADER SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=300&section=header&text=Pasindu%20D.%20Wanninayake&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Graphic%20Designer&descAlignY=55&descSize=20" alt="header" />
+</p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Full-Stack+Developer;Graphic+Designer;Computer+Engineering+Student)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Animated Text -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Full-Stack+Developer;Graphic+Designer;Computer+Engineering+Student" alt="Typing SVG" /></a>
+</p>
 
+<!-- Profile Badges -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wanni46&label=Profile%20views&color=0047AB&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Wanni46?style=for-the-badge&logo=github&color=0047AB" alt="followers" />
-</div>
+  <img src="https://img.shields.io/github/stars/Wanni46?style=for-the-badge&logo=github&color=FFD700" alt="stars" />
+</p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ABOUT ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
-<img align="right" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="coding gif" />
+<p align="center">
+  <em>
+    A passionate developer with a creative mind and technical expertise, transforming ideas into digital reality.
+  </em>
+</p>
 
-- 🎓 Computer Engineering Undergraduate at **The Open University of Sri Lanka**
-- 💻 Passionate Full-Stack Developer from Sri Lanka
-- 🌱 Currently focusing on **Java | Python | Laravel | React | JavaScript**
-- 🏢 Working at [AxSynthe Group](https://www.axsynthegroup.me) - Building Digital Excellence
-- 📫 Reach me at: [pasinduwanninayake218@gmail.com](mailto:pasinduwanninayake218@gmail.com)
-- ⚡ Fun fact: People call me **Dhana**!
-- 📅 Last updated: **2025-05-06 03:07:42 UTC**
+<!-- Animated 3D Card - Developer Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="developer animation">
+</p>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h3 align="center">Professional Summary</h3>
+      <ul>
+        <li>🎓 Computer Engineering Undergraduate at <b>The Open University of Sri Lanka</b></li>
+        <li>💻 Passionate Full-Stack Developer from Sri Lanka with expertise in modern web technologies</li>
+        <li>🌱 Currently focusing on <b>Java | Python | Laravel | React | JavaScript</b></li>
+        <li>🏢 Working at <a href="https://www.axsynthegroup.me" target="_blank"><b>AxSynthe Group</b></a> - Building Digital Excellence</li>
+        <li>📫 Reach me at: <a href="mailto:pasinduwanninayake218@gmail.com">pasinduwanninayake218@gmail.com</a></li>
+        <li>⚡ Fun fact: People call me <b>Dhana</b>!</li>
+      </ul>
+      <p><i>Last updated: 2025-05-09 03:38:07 UTC</i></p>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" alt="coding gif">
+        <br>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="quote" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <a href="https://www.axsynthegroup.me" target="_blank">
-    <img width="450" src="https://img.shields.io/badge/AxSynthe%20Group-Visit%20Our%20Digital%20Innovation%20Hub-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="AxSynthe Group" />
+    <img width="650" src="https://img.shields.io/badge/AxSynthe%20Group-Visit%20Our%20Digital%20Innovation%20Hub-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="AxSynthe Group" />
   </a>
-</div>
+</p>
 
 <details>
-  <summary>🌐 More about me</summary>
+  <summary><h3>🌐 More about me</h3></summary>
   <br>
-  <p>
-    I'm passionate about creating efficient, user-friendly web applications and constantly exploring new technologies to expand my skillset. With a solid foundation in both frontend and backend development, I enjoy tackling challenging projects that push my abilities to new heights.
-  </p>
+  <div>
+    <p>
+      I'm passionate about creating efficient, user-friendly web applications and constantly exploring new technologies to expand my skillset. With a solid foundation in both frontend and backend development, I enjoy tackling challenging projects that push my abilities to new heights.
+    </p>
+    <p>
+      At AxSynthe Group, I lead development initiatives that transform client ideas into powerful digital solutions. My approach combines technical expertise with creative problem-solving to deliver outstanding results that exceed expectations.
+    </p>
+    <p>
+      My journey in software development began with a fascination for how technology can solve real-world problems. This curiosity has evolved into expertise across multiple programming languages and frameworks, allowing me to create seamless digital experiences for users worldwide.
+    </p>
+    <blockquote>
+      <p><i>"The best way to predict the future is to implement it."</i></p>
+    </blockquote>
+  </div>
 </details>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- TECH STACK SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Tech Stack & Skills
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
+
+<!-- Animated Tech Radar - Tech Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="tech animation">
+</p>
 
 <div align="center">
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,php,java,python,html,css,c&perline=7" alt="programming languages" />
+  </p>
   
-  ### Languages
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-  ### Frameworks & Libraries
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-  ### Tools & Technologies
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+  <h3>🛠️ Frameworks & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs,express,jquery,tailwind,vue&perline=8" alt="frameworks and libraries" />
+  </p>
+  
+  <h3>🔧 Tools & Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,git,figma,ps,ai,xd,vscode,github,docker,aws,firebase&perline=11" alt="tools and technologies" />
+  </p>
 </div>
 
-## 📊 GitHub Analytics
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<!-- Skill Progress Bars -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanni46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0047AB&icon_color=0047AB" alt="Wanni46's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanni46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=0047AB" alt="Wanni46's Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Frontend Development</h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/HTML5-95%25-0047AB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-90%25-0047AB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-85%25-0047AB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/React-80%25-0047AB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+        </p>
+      </td>
+      <td>
+        <h3 align="center">Backend Development</h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/PHP-95%25-0047AB?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/Laravel-90%25-0047AB?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+          <img src="https://img.shields.io/badge/Java-80%25-0047AB?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/Python-70%25-0047AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanni46&theme=tokyonight&hide_border=true&ring=0047AB&fire=0047AB&currStreakLabel=0047AB" alt="Wanni46's GitHub Streak" />
-</div>
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wanni46&theme=nord&column=7&no-frame=true&no-bg=true" alt="Trophy" />
-</div>
+<!-- GITHUB ANALYTICS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
+</h2>
 
-## 🔗 Connect with me
+<!-- Animated Stats -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="stats animation">
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Wanni46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0047AB&icon_color=FFD700&bg_color=00000000" alt="Wanni46's GitHub Stats" />
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanni46&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=0047AB&bg_color=00000000" alt="Wanni46's Top Languages" />
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanni46&theme=tokyonight&hide_border=true&ring=0047AB&fire=FFD700&currStreakLabel=0047AB&background=00000000" alt="Wanni46's GitHub Streak" />
+</p>
 
-<div align="center">
+<!-- Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wanni46&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Wanni46">
+    <img alt="Pasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wanni46&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" />
+  </a>
+</p>
+
+<!-- Contribution Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wanni46&theme=tokyonight" alt="contribution calendar" />
+</p>
+
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- CONNECT WITH ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  Connect with me
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+</h2>
+
+<!-- Animated Network - Network Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="400" alt="network animation">
+</p>
+
+<p align="center">
   <a href="https://stackoverflow.com/users/30434740" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://fb.com/dhananjayawanninayake.wanninayake" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/c/@mintrack" target="_blank">
+  <a href="https://www.youtube.com/@MinTrack" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:pasinduwanninayake218@gmail.com" target="_blank">
@@ -108,33 +229,172 @@
   <a href="https://www.axsynthegroup.me" target="_blank">
     <img src="https://img.shields.io/badge/-AxSynthe%20Group-0047AB?style=for-the-badge&logo=ethereum&logoColor=white" alt="Company Website" />
   </a>
-</div>
+</p>
 
-## 🚀 Featured Projects
+<!-- Social Statistics -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Stack Overflow Stats</h3>
+      <p align="center">
+        <a href="https://stackoverflow.com/users/30434740">
+          <img src="https://github-readme-stackoverflow.vercel.app/?userID=30434740&theme=dark" width="100%" alt="Stackoverflow Stats"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Social Media & Channels</h3>
+      <div align="center">
+        <a href="https://www.youtube.com/@MinTrack">
+          <img src="https://img.shields.io/youtube/channel/subscribers/UC9kqkG8ZmVxDFnkONSPQPeA?style=for-the-badge&logo=youtube&color=FF0000" alt="YouTube Subscribers" />
+        </a>
+        <br><br>
+        <a href="https://www.axsynthegroup.me">
+          <img src="https://img.shields.io/badge/Website-AxSynthe%20Group-0047AB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company Website" />
+        </a>
+        <br><br>
+        <a href="https://fb.com/dhananjayawanninayake.wanninayake">
+          <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- FEATURED PROJECTS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  Featured Projects
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+</h2>
+
+<!-- Animated Project Showcase - Project Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="project animation">
+</p>
+
+<p align="center">
+  <a href="https://www.axsynthegroup.me" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanni46&repo=Wanni46&theme=tokyonight&hide_border=true&title_color=0047AB&icon_color=FFD700&bg_color=00000000" alt="Featured Project" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://www.axsynthegroup.me" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanni46&repo=Wanni46&theme=tokyonight&hide_border=true&title_color=0047AB&icon_color=0047AB" alt="Featured Project" />
-  </a>
-  <p>Check out our innovative digital solutions at <b>AxSynthe Group</b> where we transform ideas into powerful digital experiences!</p>
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Innovation at AxSynthe Group
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h3>
+  
+  <table align="center" border="0" style="background-color: #0d1117; border-radius: 10px;">
+    <tr>
+      <td align="center" style="border: none; padding: 15px; background-color: #0d1117;">
+        <div style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+          <img src="https://img.shields.io/badge/-WEB%20DEVELOPMENT-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
+          <p>Full-stack solutions with modern frameworks</p>
+          <!-- VS Code Logo -->
+          <img src="https://skillicons.dev/icons?i=vscode" width="80px" alt="VS Code">
+        </div>
+      </td>
+      <td align="center" style="border: none; padding: 15px; background-color: #0d1117;">
+        <div style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+          <img src="https://img.shields.io/badge/-UI/UX%20DESIGN-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+          <p>Intuitive interfaces with stunning visuals</p>
+          <!-- Figma Logo -->
+          <img src="https://skillicons.dev/icons?i=figma" width="80px" alt="Figma">
+        </div>
+      </td>
+      <td align="center" style="border: none; padding: 15px; background-color: #0d1117;">
+        <div style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+          <img src="https://img.shields.io/badge/-DIGITAL%20INNOVATION-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Digital Innovation" />
+          <p>Transforming businesses digitally</p>
+          <!-- Google Logo -->
+          <img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" width="80px" alt="Google">
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Interactive Project Cards -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/Web%20App-Development-3776AB?style=flat-square&logo=react" alt="Web App">
+        <p>Modern web applications with responsive designs and optimized performance.</p>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/Mobile%20App-Development-339933?style=flat-square&logo=android" alt="Mobile App">
+        <p>Cross-platform mobile applications with native-like performance.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/E--commerce-Solutions-FF2D20?style=flat-square&logo=shopify" alt="E-commerce">
+        <p>Complete e-commerce platforms with secure payment gateways.</p>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/Custom-Software-0047AB?style=flat-square&logo=windows" alt="Custom Software">
+        <p>Tailored software solutions to meet specific business needs.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## ☕ Support Me
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- SUPPORT ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/1jY7CpwS10YCh56W1J/giphy.gif" width="30">
+  Support Me
+  <img src="https://media.giphy.com/media/1jY7CpwS10YCh56W1J/giphy.gif" width="30">
+</h2>
 
 <div align="center">
   <a href="https://buymeacoffee.com/dhananjaya_46">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
+  
+  <br><br>
+  
+  <p>Your support motivates me to keep creating and sharing content with the community!</p>
+  
+  <!-- Coffee Cup Animation -->
+  <img width="180" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="Coffee Cup Animation" />
+  
+  <div>
+    <p>Supporters this month: <b>14</b> ❤️</p>
+    <div align="center">
+      <!-- Random Meme -->
+      <img src="https://programmerhumor.io/wp-content/uploads/2021/11/programmerhumor-io-programming-memes-e6faf9e815dc5fa-608x577.jpg" width="300px" alt="Random Meme">
+    </div>
+    <br>
+    <p>Thank you for supporting my work and contributing to future developments!</p>
+    <p>Every coffee helps fuel new innovations and open-source contributions.</p>
+    <a href="https://github.com/sponsors/Wanni46" target="_blank">
+      <img src="https://img.shields.io/badge/-Become%20a%20GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+    </a>
+  </div>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- GITHUB SNAKE ANIMATION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30">
+  Contribution Graph
+  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30">
+</h2>
 
 <div align="center">
   <picture>
@@ -144,6 +404,14 @@
   </picture>
 </div>
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&customColorList=0,2,2,5,30&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="footer" />
+</p>
+
+<!-- SPOTIFY NOW PLAYING -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
+  <a href="https://open.spotify.com/user/31s7xrcqfmkxd45s4xqmoibe2q3y">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
+  </a>
 </div>
