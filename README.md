@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <td width="60%">
-      <h3 align="center">Professional Summary</h3>
+      <h2 align="center">Professional Summary</h2>
       <ul>
         <li>🎓 Computer Engineering Undergraduate at <b>The Open University of Sri Lanka</b></li>
         <li>💻 Passionate Full-Stack Developer from Sri Lanka with expertise in modern web technologies</li>
