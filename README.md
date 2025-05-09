@@ -362,26 +362,26 @@
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   
-  <br><br>
+  <br>
   
   <p>Your support motivates me to keep creating and sharing content with the community!</p>
   
   <!-- Coffee Cup Animation -->
   <img width="180" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="Coffee Cup Animation" />
   
-  <div>
-    <p>Supporters this month: <b>14</b> ❤️</p>
-    <div align="center">
-      <!-- Random Meme -->
-      <img src="https://programmerhumor.io/wp-content/uploads/2021/11/programmerhumor-io-programming-memes-e6faf9e815dc5fa-608x577.jpg" width="300px" alt="Random Meme">
-    </div>
-    <br>
-    <p>Thank you for supporting my work and contributing to future developments!</p>
-    <p>Every coffee helps fuel new innovations and open-source contributions.</p>
-    <a href="https://github.com/sponsors/Wanni46" target="_blank">
-      <img src="https://img.shields.io/badge/-Become%20a%20GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
-    </a>
+ <div>
+  <p>Supporters this month: <b>14</b> ❤️</p>
+  <div align="center">
+    <!-- Random Meme -->
+    <img src="https://i.imgur.com/jx17oHT.gif" width="300px" alt="Random Meme">
   </div>
+  <br>
+  <p>Thank you for supporting my work and contributing to future developments!</p>
+  <p>Every coffee helps fuel new innovations and open-source contributions.</p>
+  <a href="https://github.com/sponsors/Wanni46" target="_blank">
+    <img src="https://img.shields.io/badge/-Become%20a%20GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</div>
 </div>
 
 <!-- ANIMATED DIVIDER -->
