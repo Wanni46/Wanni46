@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.png" width="100%" alt="Pasindu D Wanninayake"/>
 
+<br/>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=wanni46&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
@@ -10,9 +12,8 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
 &nbsp;&nbsp;
-<a href="https://axsynthe.com"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
+<a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-D85A30?style=for-the-badge&labelColor=FAECE7" alt="Sri Lanka"/>
 
 </div>
 
