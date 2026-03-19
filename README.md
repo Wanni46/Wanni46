@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Pasindu D Wanninayake"/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr><td align="center">
 
 <img src="https://komarev.com/ghpvc/?username=wanni46&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
