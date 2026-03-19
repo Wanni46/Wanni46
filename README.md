@@ -17,8 +17,7 @@
  
 ## About me
  
-Fullstack developer, CS undergrad, and founder — I build complete products from database to UI
-and run a real business while doing it.
+Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
  
 - 🎓 &nbsp;BSc. Computer Science — studying the theory, building the practice
 - ⚡ &nbsp;Fullstack with React + Node.js — end-to-end, no handoffs
