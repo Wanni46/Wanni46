@@ -2,13 +2,13 @@
 
 <img src="./assets/banner.png" width="100%" alt="Pasindu D Wanninayake"/>
 
-<img src="https://komarev.com/ghpvc/?username=wanni46&style=flat-square&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=wanni46&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
-<a href="https://github.com/wanni46?tab=followers"><img src="https://img.shields.io/github/followers/wanni46?style=flat-square&color=7F77DD&labelColor=EEEDFE&label=Followers" alt="followers"/></a>
+<a href="https://github.com/wanni46?tab=followers"><img src="https://img.shields.io/github/followers/wanni46?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=Followers" alt="followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=flat-square&labelColor=E1F5EE" alt="open to work"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Year-Undergraduate-378ADD?style=flat-square&labelColor=E6F1FB" alt="undergraduate"/>
+<img src="https://img.shields.io/badge/Year-Undergraduate-378ADD?style=for-the-badge&labelColor=E6F1FB" alt="undergraduate"/>
 
 </div>
 
