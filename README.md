@@ -4,13 +4,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=wanni46&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
-
 <a href="https://github.com/wanni46?tab=followers"><img src="https://img.shields.io/github/followers/wanni46?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=Followers" alt="followers"/></a>
 &nbsp;
-
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
 &nbsp;
-
 <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
 &nbsp;
 
