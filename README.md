@@ -21,14 +21,16 @@
  
 ## About me
  
-🎓 &nbsp;BSc. Computer Science — studying the theory, building the practice
-⚡ &nbsp;Fullstack with React + Node.js — end-to-end, no handoffs
-🚀 &nbsp;Running a multi-domain business across IT, design, education & media
-🏢 &nbsp;CEO & Founder at **Axsynthe Group** — operating across IT, software, design, education & media
-🛠️ &nbsp;3+ years coding · 5+ projects shipped · 20+ clients served
-🌐 &nbsp;Comfortable working across the full product lifecycle — from idea to deployment
-📍 &nbsp;Based in Negombo, Sri Lanka
-💡 &nbsp;I don't wait to graduate to start — I build, ship, and iterate now
+Fullstack developer, CS undergrad, and founder — I build complete products from database to UI
+and run a real business while doing it.
+ 
+- 🎓 &nbsp;BSc. Computer Science — studying the theory, building the practice
+- ⚡ &nbsp;Fullstack with React + Node.js — end-to-end, no handoffs
+- 🚀 &nbsp;Running a multi-domain business across IT, design, education & media
+- 🏢 &nbsp;CEO & Founder at **Axsynthe Group**
+- 🛠️ &nbsp;3+ years coding · 5+ projects shipped · 20+ clients served
+- 📍 &nbsp;Based in Negombo, Sri Lanka
+- 💡 &nbsp;I don't wait to graduate to start — I build, ship, and iterate now
 
 ---
 
