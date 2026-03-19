@@ -10,7 +10,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Completed%20Projects-5+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
 &nbsp;&nbsp;
-<a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
+<a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-React%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
 &nbsp;&nbsp;
 
 </div>
