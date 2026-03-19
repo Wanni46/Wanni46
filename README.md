@@ -27,6 +27,8 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 
 </div>
 
+<div>
+
 ## Tech stack
 
 **Frontend**
@@ -64,7 +66,7 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+</div>
 
 ## Current venture
 
