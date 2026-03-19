@@ -18,11 +18,12 @@
 ## About me
  
 - 🎓 &nbsp;BSc. (Hons) in Computer Engineering (Undergraduate)
-- 🚀 &nbsp;Running a multi-domain business across IT, design, education & media
 - 🏢 &nbsp;CEO & Founder at **Axsynthe Group**
-- 🛠️ &nbsp;3+ years coding · 5+ projects shipped · 20+ clients served
+- 🚀 &nbsp;Running a multi-domain business across IT, design, education & media
+- 🛠️ &nbsp;3+ years coding · 5+ projects completed
 - 📍 &nbsp;Based in Warawewa, Sri Lanka
-- 💡 &nbsp;Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
+
+Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
 
 ---
 
