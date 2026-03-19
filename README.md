@@ -25,8 +25,6 @@
 
 Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
 
----
-
 ## Tech stack
 
 **Frontend**
