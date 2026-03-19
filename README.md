@@ -17,15 +17,12 @@
  
 ## About me
  
-Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
- 
-- 🎓 &nbsp;BSc. Computer Science — studying the theory, building the practice
-- ⚡ &nbsp;Fullstack with React + Node.js — end-to-end, no handoffs
+- 🎓 &nbsp;BSc. (Hons) in Computer Engineering (Undergraduate)
 - 🚀 &nbsp;Running a multi-domain business across IT, design, education & media
 - 🏢 &nbsp;CEO & Founder at **Axsynthe Group**
 - 🛠️ &nbsp;3+ years coding · 5+ projects shipped · 20+ clients served
-- 📍 &nbsp;Based in Negombo, Sri Lanka
-- 💡 &nbsp;I don't wait to graduate to start — I build, ship, and iterate now
+- 📍 &nbsp;Based in Warawewa, Sri Lanka
+- 💡 &nbsp;Code is how I think. Business is how I execute. Professionally, simultaneously, relentlessly.
 
 ---
 
