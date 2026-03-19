@@ -14,8 +14,6 @@
 &nbsp;&nbsp;
 
 </div>
-
----
  
 ## About me
  
