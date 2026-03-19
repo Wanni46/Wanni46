@@ -11,9 +11,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
 &nbsp;
-<a href="https://axsynthe.com"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
+<a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Axsynthe%20Group-Founder%20%26%20CEO-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-D85A30?style=for-the-badge&labelColor=FAECE7" alt="Sri Lanka"/>
 
 </td></tr>
 </table>
