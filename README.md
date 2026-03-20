@@ -110,14 +110,14 @@ This platform is a web based application developed as an initial software projec
 ### 🎓 **VSGSLP - Virtual Study Groups & Social Learning Platform**
 ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/BACKEND-Flask-00BFA5?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/DATABASE-PostgreSQL-00758F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 This platform is a web-based application developed as an initial software project for collaborative learning. It allows students to join study groups, access workshops, and follow announcements, while instructors support learning activities and admins manage users and platform operations, providing a simple, role-based, and user-friendly learning experience.
 
 📂 [**View Project Repository →**](https://github.com/Wanni46/VIRTUAL-SOCIAL-LEARNING-PLATFORM.git)
 
 ### 🌐 **AxSynthe Group – Corporate Website**
-![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+![Angular](https://img.shields.io/badge/FRONTEND-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 This platform is a web-based corporate website designed to showcase the company's portfolio, services, and projects effectively. It provides an interactive and visually engaging interface, organized sections for service offerings, project highlights, and team information, along with smooth navigation and responsive design for seamless access across devices.
 
