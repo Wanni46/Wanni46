@@ -80,7 +80,7 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 <tr>
 <td width="22%" align="center" valign="middle">
 <a href="https://axsynthegroup.me">
-<img src="./assets/axsynthe-logo-01.png" width="110" alt="Axsynthe Group"/>
+<img src="./assets/logo.png" width="110" alt="Axsynthe Group"/>
 </a>
 </td>
 <td width="78%" valign="middle">
