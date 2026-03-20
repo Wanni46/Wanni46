@@ -88,74 +88,26 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 
 ![Active](https://img.shields.io/badge/Status-Active-1D9E75?style=flat-square&labelColor=E1F5EE)
 ![Clients](https://img.shields.io/badge/Clients-20+-7F77DD?style=flat-square&labelColor=EEEDFE)
-![Founded](https://img.shields.io/badge/Founded-2022-378ADD?style=flat-square&labelColor=E6F1FB)
+![Founded](https://img.shields.io/badge/Founded-2025-378ADD?style=flat-square&labelColor=E6F1FB)
 
 <br clear="left"/>
 
 </div>
 
----
+<div>
 
 ## Featured projects
 
-> 💡 Replace these cards with your actual repos and pin them on GitHub too.
+### 🛫 **ARMS - Airline Reservation Management System**
+  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+![PHP](https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
 
-<table>
-<tr>
-<td width="50%">
+This platform is a web-based platform developed as a first software project to manage flight bookings and reservations. It enables users to search flights using filters, register and authenticate accounts, select seats, and confirm bookings through an interactive interface. The system also includes administrative capabilities for managing flights and reservations, along with secure session handling and dynamic updates, delivering a responsive and user-friendly airline booking experience.
 
-**🔗 Project One**
-A brief one-liner about what it does and who it's for.
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[View repo](https://github.com/wanni46) &nbsp;|&nbsp; [Live demo](#)
-
-</td>
-<td width="50%">
-
-**🔗 Project Two**
-A brief one-liner about what it does and who it's for.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[View repo](https://github.com/wanni46) &nbsp;|&nbsp; [Live demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔗 Project Three**
-A brief one-liner about what it does and who it's for.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[View repo](https://github.com/wanni46) &nbsp;|&nbsp; [Live demo](#)
-
-</td>
-<td width="50%">
-
-**🔗 Project Four**
-A brief one-liner about what it does and who it's for.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[View repo](https://github.com/wanni46) &nbsp;|&nbsp; [Live demo](#)
-
-</td>
-</tr>
-</table>
-
----
+</div>
 
 ## GitHub stats
 
