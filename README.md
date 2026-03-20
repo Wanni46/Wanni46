@@ -74,6 +74,8 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 
 </div>
 
+<div>
+
 ## Current venture
  
 <table border="0" cellspacing="0" cellpadding="0">
@@ -98,6 +100,8 @@ A multi-domain innovation company founded during university — building real so
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
