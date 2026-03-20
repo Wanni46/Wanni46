@@ -134,51 +134,18 @@ This platform is a web-based product catalog application developed using Next.js
 
 </div>
 
+<div>
+
 ## GitHub stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wanni46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" height="165"/>
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanni46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=wanni46&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD" height="165"/>
 
 </div>
 
----
 
-## Currently learning
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-## Open to collaborate
-
-I'm interested in connecting with people working on:
-
-- 🌍 &nbsp;**Impactful web products** that solve real problems
-- 🤝 &nbsp;**Open source projects** in the React / Node.js ecosystem
-- 🎨 &nbsp;**Design + dev crossover** projects where UI quality matters
-- 📚 &nbsp;**EdTech or creative tech** ventures
-
-If you have something worth building — let's talk.
-
----
-
-## Contribution graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wanni46&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=7F77DD&point=D85A30" width="100%"/>
-</div>
-
----
 
 ## Connect with me
 
