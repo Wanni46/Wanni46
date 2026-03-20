@@ -77,29 +77,22 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 <div>
 
 ## Current venture
- 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="22%" align="center" valign="middle">
+
 <a href="https://axsynthegroup.me">
-<img src="./assets/logo.png" width="160" alt="Axsynthe Group"/>
+<img src="./assets/axsynthe-logo-01.png" width="160" alt="Axsynthe Group" align="left"/>
 </a>
-</td>
-<td width="78%" valign="middle">
- 
+
 **[Axsynthe Group](https://axsynthegroup.me)** &nbsp;·&nbsp; CEO & Founder
- 
+
 A multi-domain innovation company founded during university — building real solutions for real clients across five verticals.
- 
+
 💻 &nbsp;IT & Software &nbsp;·&nbsp; 🎨 &nbsp;Graphic Design &nbsp;·&nbsp; 🎓 &nbsp;Education &nbsp;·&nbsp; 📸 &nbsp;Photo & Video &nbsp;·&nbsp; 🌐 &nbsp;Web Development
- 
+
 ![Active](https://img.shields.io/badge/Status-Active-1D9E75?style=flat-square&labelColor=E1F5EE)
 ![Clients](https://img.shields.io/badge/Clients-20+-7F77DD?style=flat-square&labelColor=EEEDFE)
 ![Founded](https://img.shields.io/badge/Founded-2022-378ADD?style=flat-square&labelColor=E6F1FB)
- 
-</td>
-</tr>
-</table>
+
+<br clear="left"/>
 
 </div>
 
