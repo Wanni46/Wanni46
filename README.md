@@ -98,14 +98,14 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 
 ## Featured projects
 
-### 🛫 **ARMS - Airline Reservation Management System**
+### 🛫 **ARS - Airline Reservation System**
 ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
 
 This platform is a web based application developed as an initial software project to manage flight bookings and reservations. It allows users to search flights, create accounts, select seats, and confirm bookings through an intuitive interface, while also providing administrative features, secure session handling, and a responsive user experience.
 
-📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+📂 [**View Project Repository →**](https://github.com/Wanni46/ARS.git)
 
 </div>
 
