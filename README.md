@@ -124,9 +124,9 @@ This platform is a web-based corporate website designed to showcase the company'
 🌍 [**Visit Live Website →**](https://www.axsynthegroup.me)
 
 ### 🎓 **DCP – Digital Catalog Platform**
-![NextJS](https://img.shields.io/badge/FRONTEND-NextJS-E34F26?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/FRONTEND-NextJS-000000?style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/BACKEND-NextJS-E34F26?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/DATABASE-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/DATABASE-PostgreSQL-00758F?style=for-the-badge)
 
 This platform is a web-based product catalog application developed using Next.js as an initial software project for sellers. It allows customers to browse products, search and filter items, view details, and place orders via WhatsApp, while admins can manage products, images, and popularity metrics through a dashboard, providing a simple, efficient, and user-friendly catalog experience.
 
