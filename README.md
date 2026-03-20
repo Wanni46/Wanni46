@@ -107,6 +107,22 @@ This platform is a web based application developed as an initial software projec
 
 📂 [**View Project Repository →**](https://github.com/Wanni46/ARS.git)
 
+### 🎓 **LMS - Learning Management System**
+  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+![Flask](https://img.shields.io/badge/BACKEND-Flask-00BFA5?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
+
+This platform is a web-based system designed to manage courses, assignments, and student progress efficiently. It provides a centralized course catalog, resource sharing, assignment submission, and grading tools for instructors, while enabling students to track their progress and participate in discussion forums. The platform also includes notifications and file management features, along with secure user authentication and role-based access control for students, instructors, and administrators.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+### 🌐 **AxSynthe Group – Corporate Website**
+![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+
+This platform is a web-based corporate website designed to showcase the company's portfolio, services, and projects effectively. It provides an interactive and visually engaging interface, organized sections for service offerings, project highlights, and team information, along with smooth navigation and responsive design for seamless access across devices.
+
+🌍 [**Visit Live Website →**](https://www.axsynthegroup.me)
+
 </div>
 
 ## GitHub stats
