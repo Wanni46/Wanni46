@@ -82,7 +82,7 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 <img src="./assets/logo.png" width="160" alt="Axsynthe Group" align="left"/>
 </a>
 
-**[Axsynthe Group](https://axsynthegroup.me)** &nbsp;·&nbsp; A multi-domain innovation company founded during university — building real solutions for real clients across five verticals.
+**[Axsynthe Group](https://axsynthegroup.me)** is a multi domain innovation company founded during university building real solutions for real clients across five verticals.
 
 💻 &nbsp;IT & Software &nbsp;·&nbsp; 🎨 &nbsp;Graphic Design &nbsp;·&nbsp; 🎓 &nbsp;Education &nbsp;·&nbsp; 📸 &nbsp;Photo & Video &nbsp;·&nbsp; 🌐 &nbsp;Web Development
 
