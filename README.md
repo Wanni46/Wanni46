@@ -145,21 +145,18 @@ This platform is a web-based product catalog application developed using Next.js
 
 </div>
 
-
+<div>
 
 ## Connect with me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-wanninayake)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanni46)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasinduwanninayake218@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-dhananjaya-wanninayake-759877235)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://pasindudwanninayake.tech/)
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&text=Thanks%20for%20Watching&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 </div>
