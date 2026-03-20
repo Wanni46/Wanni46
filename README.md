@@ -79,7 +79,7 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 ## Current venture
 
 <a href="https://axsynthegroup.me">
-<img src="./assets/axsynthe-logo-01.png" width="160" alt="Axsynthe Group" align="left"/>
+<img src="./assets/logo.png" width="160" alt="Axsynthe Group" align="left"/>
 </a>
 
 **[Axsynthe Group](https://axsynthegroup.me)** &nbsp;·&nbsp; CEO & Founder
