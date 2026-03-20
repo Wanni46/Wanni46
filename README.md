@@ -75,27 +75,26 @@ Code is how I think. Business is how I execute. Professionally, simultaneously, 
 </div>
 
 ## Current venture
-
-<table>
+ 
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%">
-
-**Multi-domain innovation business** operating across five verticals:
-
-- 💻 &nbsp;**IT & Software** — custom solutions and web platforms
-- 🎨 &nbsp;**Graphic Design** — branding, UI/UX, visual identity
-- 🎓 &nbsp;**Education** — tutoring, digital learning resources
-- 📸 &nbsp;**Photo & Videography** — professional media production
-- 🌐 &nbsp;**Web Development** — end-to-end client projects
-
+<td width="22%" align="center" valign="middle">
+<a href="https://axsynthegroup.me">
+<img src="./assets/axsynthe-logo-01.png" width="110" alt="Axsynthe Group"/>
+</a>
 </td>
-<td width="40%" align="center">
-
-![Business](https://img.shields.io/badge/Status-Active-1D9E75?style=for-the-badge&labelColor=E1F5EE)
-
-**Founded while in university.**
-Building real products for real clients — not just coursework.
-
+<td width="78%" valign="middle">
+ 
+**[Axsynthe Group](https://axsynthegroup.me)** &nbsp;·&nbsp; CEO & Founder
+ 
+A multi-domain innovation company founded during university — building real solutions for real clients across five verticals.
+ 
+💻 &nbsp;IT & Software &nbsp;·&nbsp; 🎨 &nbsp;Graphic Design &nbsp;·&nbsp; 🎓 &nbsp;Education &nbsp;·&nbsp; 📸 &nbsp;Photo & Video &nbsp;·&nbsp; 🌐 &nbsp;Web Development
+ 
+![Active](https://img.shields.io/badge/Status-Active-1D9E75?style=flat-square&labelColor=E1F5EE)
+![Clients](https://img.shields.io/badge/Clients-20+-7F77DD?style=flat-square&labelColor=EEEDFE)
+![Founded](https://img.shields.io/badge/Founded-2022-378ADD?style=flat-square&labelColor=E6F1FB)
+ 
 </td>
 </tr>
 </table>
