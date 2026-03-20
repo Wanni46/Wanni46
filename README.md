@@ -107,14 +107,14 @@ This platform is a web based application developed as an initial software projec
 
 📂 [**View Project Repository →**](https://github.com/Wanni46/ARS.git)
 
-### 🎓 **LMS - Learning Management System**
-  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+### 🎓 **VSGSLP - Virtual Study Groups & Social Learning Platform**
+![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/BACKEND-Flask-00BFA5?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/DATABASE-PostgreSQL-00758F?style=for-the-badge)
 
-This platform is a web-based system designed to manage courses, assignments, and student progress efficiently. It provides a centralized course catalog, resource sharing, assignment submission, and grading tools for instructors, while enabling students to track their progress and participate in discussion forums. The platform also includes notifications and file management features, along with secure user authentication and role-based access control for students, instructors, and administrators.
+This platform is a web-based application developed as an initial software project for collaborative learning. It allows students to join study groups, access workshops, and follow announcements, while instructors support learning activities and admins manage users and platform operations, providing a simple, role-based, and user-friendly learning experience.
 
-📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+📂 [**View Project Repository →**](https://github.com/Wanni46/VIRTUAL-SOCIAL-LEARNING-PLATFORM.git)
 
 ### 🌐 **AxSynthe Group – Corporate Website**
 ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
